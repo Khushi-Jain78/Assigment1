@@ -32,3 +32,6 @@ Sample Data:
 Here the main data of the student is stored in an SQl database whereas the course data in the mongoDb collection.
 
 Similarly data can be added, deleted and updated in both the databases from a single application.
+
+**MongoDb is hosted on localhost.
+**To check connection with Sql please create your own database and alter the username and password in the Application properties file 
